@@ -1,0 +1,5 @@
+c:\Projects\madhuri\hrms\DAL\bin\Debug\DAL.dll
+c:\Projects\madhuri\hrms\DAL\bin\Debug\DAL.pdb
+c:\Projects\madhuri\hrms\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Projects\madhuri\hrms\DAL\obj\Debug\DAL.dll
+c:\Projects\madhuri\hrms\DAL\obj\Debug\DAL.pdb
